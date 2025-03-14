@@ -32,7 +32,7 @@
     "currency": "EUR",
     "installable": True,
     "application": True,
-    "images": ["static/description/icon.png"],
+    "images": ["static/description/pos.jpg"],
     "license": "OPL-1",
     "assets": {
         "point_of_sale._assets_pos": [

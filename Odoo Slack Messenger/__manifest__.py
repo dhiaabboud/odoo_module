@@ -19,7 +19,7 @@
 
     'depends': ['mail','base'],
     'images': [
-        'static/description/banner.gif',
+        'static/description/banner1.png',
     ],
     # always loaded
     'data': [
